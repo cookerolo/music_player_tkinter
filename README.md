@@ -1,2 +1,2 @@
 # music_player_tkinter
-Music Player created with Tkinter
+Music Player created with Python's Tkinter
