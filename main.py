@@ -8,6 +8,7 @@ import sys
 
 
 root = Tk()
+root.wm_iconbitmap("music123.ico")
 
 status_bar = ttk.Label(root, text="Welcome to Music Player!", relief=SUNKEN, anchor=W)
 status_bar.pack(side=BOTTOM, fill=X)
